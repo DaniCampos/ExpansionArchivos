@@ -1,0 +1,6 @@
+La Clase Expand contiene
+a los métodos: <<<archivob>>>
+y utiliza a la 
+Clase ListaEnlazada para chequear
+si existe una referencia circular
+de la forma: <<<archivoc>>>
